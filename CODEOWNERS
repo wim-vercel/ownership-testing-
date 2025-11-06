@@ -1,1 +1,5 @@
-ownership-testing/test @wim-vercel:optional
+ownership-testing/test1 @wim-vercel:optional
+ownership-testing/test2 @wim-vercel:optional
+ownership-testing/test3 @wim-vercel:optional
+ownership-testing/test4 @wim-vercel:optional
+ownership-testing/test5 @wim-vercel:optional
